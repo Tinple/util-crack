@@ -1,0 +1,24 @@
+{
+  "name": "util-crack",
+  "version": "0.0.0",
+  "description": "utilities kit",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tinple/util-crack"
+  },
+  "keywords": [
+    "[\"utilities\"",
+    "\"crack\"",
+    "\"kit\"]"
+  ],
+  "author": "tinple",
+  "license": "mit",
+  "bugs": {
+    "url": "https://github.com/Tinple/util-crack/issues"
+  },
+  "homepage": "https://github.com/Tinple/util-crack"
+}
