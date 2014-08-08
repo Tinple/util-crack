@@ -1,6 +1,6 @@
 {
   "name": "util-crack",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "utilities kit",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,9 @@
     "type": "git",
     "url": "https://github.com/Tinple/util-crack"
   },
+  "dependencies": {
+    "is-judge": "0.0.1"
+    },
   "keywords": [
     "[\"utilities\"",
     "\"crack\"",
