@@ -1,6 +1,6 @@
 {
   "name": "util-crack",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "utilities kit",
   "main": "index.js",
   "scripts": {
